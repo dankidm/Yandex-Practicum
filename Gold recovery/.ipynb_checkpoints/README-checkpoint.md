@@ -79,7 +79,7 @@ $$sMAPE=\frac{1}{N} \sum_{i=1} \frac{|y_i - \hat{y}_i|}{(|y_i| + |\hat{y}_i|)/2}
 - эффективность обогащения чернового концентрата rougher.output.recovery;
 - эффективность обогащения финального концентрата final.output.recovery.
 
-## Стек технологий
+## Стек проекта
 1. Чтение и работа с датасетами: **Pandas** и **Numpy**
 2. Визуализация данных: Matplotlib
 3. Для решения задачи прогнозирования: LinearRegression и DecisionTreeRegressor из библиотеки **Sklearn** и градиентный бустинг из библиотеки **CatBoost**
